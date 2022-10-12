@@ -1,0 +1,321 @@
+[
+    {
+        "judul": {
+            "text": "Nilai Per-Semester anda di Stikom Banyuwangi"
+        },
+        "body": [
+            {
+                "id":1,
+                "table":[
+                    {
+                        "text": "Nilai Semester 1"
+                    },
+                    {
+                        "data_matkul": [
+                            {
+                                "id": 1,
+                                "matkul": "Matematika Diskrit",
+                                "sks": 3,
+                                "dosen": "Ir. H. Moch Najib, MM",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 2,
+                                "matkul": "Basis Data",
+                                "sks": 4,
+                                "dosen": "Solehatin, S.Kom, M.Kom",
+                                "nilai": "AB",
+                                "NxK": 14
+                            },
+                            {
+                                "id": 3,
+                                "matkul": "Bahasa Inggris Dasar",
+                                "sks": 3,
+                                "dosen": "Savirah Jufri, S.Pd, M.Pd",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 4,
+                                "matkul": "Algoritma Pemrograman",
+                                "sks": 4,
+                                "dosen": "Hadiq, ST, M.Kom",
+                                "nilai": "B",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 5,
+                                "matkul": "Praktikum Algoritma Pemrograman",
+                                "sks": 1,
+                                "dosen": "Pelsri Ramadar N.S., M.Kom",
+                                "nilai": "B",
+                                "NxK": 3
+                            },
+                            {
+                                "id": 6,
+                                "matkul": "Pengantar Teknologi Informasi",
+                                "sks": 3,
+                                "dosen": "Tintin Harlina, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 7,
+                                "matkul": "Paket Program Niaga",
+                                "sks": 2,
+                                "dosen": "Estu Handayani, ST, MM",
+                                "nilai": "AB",
+                                "NxK": 7
+                            },
+                            {
+                                "id": 8,
+                                "matkul": "Praktikum Basis Data",
+                                "sks": 1,
+                                "dosen" : "Krida Maharsi D., S.Kom",
+                                "nilai": "AB",
+                                "NxK": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "table":[
+                    {
+                        "text": "Nilai Semester 2"
+                    },
+                    {
+                        "data_matkul": [
+                            {
+                                "id": 1,
+                                "matkul": "Praktikum Instalasi dan Maintenance",
+                                "sks": 1,
+                                "dosen": "Krida Maharsi D., S.Kom",
+                                "nilai": "A",
+                                "NxK": 4
+                            },
+                            {
+                                "id": 2,
+                                "matkul": "Aljabar Linier",
+                                "sks": 3,
+                                "dosen": "Ir. H. Moch Najib, MM",
+                                "nilai": "AB",
+                                "NxK": 10.5
+                            },
+                            {
+                                "id": 3,
+                                "matkul": "Instalasi dan Maintenance",
+                                "sks": 2,
+                                "dosen": "Tintin Harlina, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 8
+                            },
+                            {
+                                "id": 4,
+                                "matkul": "Struktur Data",
+                                "sks": 4,
+                                "dosen": "Dwi Yulian R.L., S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 16
+                            },
+                            {
+                                "id": 5,
+                                "matkul": "Praktikum Struktur Data",
+                                "sks": 1,
+                                "dosen": "Dwi Yulian R.L., S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 4
+                            },
+                            {
+                                "id": 6,
+                                "matkul": "Bahasa Inggris Teknik",
+                                "sks": 3,
+                                "dosen": "Savirah Jufri, S.Pd, M.Pd",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 7,
+                                "matkul": "Desain Grafis",
+                                "sks": 3,
+                                "dosen": "Sony Panca Budiarto, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 8,
+                                "matkul": "Agama",
+                                "sks": 3,
+                                "dosen" : "Mohammad Nurrofiq, S.Ag, M.Pd.I",
+                                "nilai": "A",
+                                "NxK": 12
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id":3,
+                "table":[
+                    {
+                        "text": "Nilai Semester 3"
+                    },
+                    {
+                        "data_matkul": [
+                            {
+                                "id": 1,
+                                "matkul": "Data Scraping",
+                                "sks": 3,
+                                "dosen": "Eko Heri Susanto, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 2,
+                                "matkul": "Praktikum Data Scraping",
+                                "sks": 1,
+                                "dosen": "Eko Heri Susanto, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 4
+                            },
+                            {
+                                "id": 3,
+                                "matkul": "Pancasila dan Kewarganegaraan",
+                                "sks": 3,
+                                "dosen": "Arif Hadi Sumitro, S.Kom, M.Kom",
+                                "nilai": "B",
+                                "NxK": 9
+                            },
+                            {
+                                "id": 4,
+                                "matkul": "Statistik",
+                                "sks": 3,
+                                "dosen": "Ir. H. Moch Najib, MM",
+                                "nilai": "AB",
+                                "NxK": 10.5
+                            },
+                            {
+                                "id": 5,
+                                "matkul": "Desain Prototype Web - sem 3",
+                                "sks": 3,
+                                "dosen": "Sony Panca Budiarto, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 6,
+                                "matkul": "Dasar Pemrograman Frontend",
+                                "sks": 3,
+                                "dosen": "Khoirul Umam, S.Pd, M.Kom",
+                                "nilai": "B",
+                                "NxK": 9
+                            },
+                            {
+                                "id": 7,
+                                "matkul": "Desain Web",
+                                "sks": 3,
+                                "dosen": "Khoirul Umam, S.Pd, M.Kom",
+                                "nilai": "B",
+                                "NxK": 9
+                            },
+                            {
+                                "id": 8,
+                                "matkul": "Bahasa Indonesia",
+                                "sks": 2,
+                                "nilai": "AB",
+                                "NxK": 7
+                            },
+                            {
+                                "id": 9,
+                                "matkul": "Dasar Pemrograman Backend",
+                                "sks": 3,
+                                "dosen" : "Muhammad Ulir Rifky, M.Kom",
+                                "nilai": "AB",
+                                "NxK": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id":4,
+                "table":[
+                    {
+                        "text": "Nilai Semester 4"
+                    },
+                    {
+                        "data_matkul": [
+                            {
+                                "id": 1,
+                                "matkul": "Technopreneurship",
+                                "sks": 3,
+                                "dosen": "Rachman Yulianto, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 2,
+                                "matkul": "Database Non Relational - Sem 4",
+                                "sks": 3,
+                                "dosen": "Faruk Alfiyan, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 3,
+                                "matkul": "Animasi Grafis dan Video",
+                                "sks": 3,
+                                "dosen": "Nur Ahmadi Indartono ST, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 4,
+                                "matkul": "Manajemen Keuangan",
+                                "sks": 3,
+                                "dosen": "Djuniharto, SE, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 5,
+                                "matkul": "Frontend Development",
+                                "sks": 4,
+                                "dosen": "Eko Heri Susanto, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 16
+                            },
+                            {
+                                "id": 6,
+                                "matkul": "Backend Development",
+                                "sks": 3,
+                                "dosen": "Eko Heri Susanto, S.Kom, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 7,
+                                "matkul": "Pemrograman Berbasis Mobile",
+                                "sks": 2,
+                                "dosen": "Abdul Haris, M.Kom",
+                                "nilai": "A",
+                                "NxK": 12
+                            },
+                            {
+                                "id": 8,
+                                "matkul": "Praktikum Fullstack Development",
+                                "sks": 1,
+                                "dosen" : "Hadiq, ST, M.Kom",
+                                "nilai": "A",
+                                "NxK": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+            
+        ]
+    }
+]
